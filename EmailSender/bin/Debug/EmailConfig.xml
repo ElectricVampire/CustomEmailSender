@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmailConfig>
+  <Smtp>
+    <SmtpAddress>smtp.gmail.com</SmtpAddress>
+    <Port>587</Port>
+  </Smtp>
+  <User>
+    <From>ashutoshpareek4@gmail.com</From>
+    <Password>131423</Password>
+    <Bcc></Bcc>
+    <Cc></Cc>
+  </User>
+  <Misc>
+    <TemplateConfigPath>C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\EmailSender\EmailSender\bin\Debug\TemplateConfig.xml</TemplateConfigPath>
+  </Misc>
+</EmailConfig>

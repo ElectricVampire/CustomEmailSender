@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TemplateConfig>
+  <Templates>
+    <Template name="ThankYou" path ="C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\EmailSender\EmailSender\bin\Debug\ThankYou.htm"/>
+    <Template name="OrderPlaced" path ="C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\EmailSender\EmailSender\bin\Debug\OrderPlaced.htm"/>
+  </Templates>
+</TemplateConfig>

@@ -1,0 +1,8 @@
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\EmailSender\EmailSenderClient\bin\Release\EmailSenderClient.exe.config
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\EmailSender\EmailSenderClient\bin\Release\EmailSenderClient.exe
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\EmailSender\EmailSenderClient\bin\Release\EmailSenderClient.pdb
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\EmailSender\EmailSenderClient\bin\Release\EmailSender.dll
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\EmailSender\EmailSenderClient\bin\Release\EmailSender.pdb
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\EmailSender\EmailSenderClient\obj\Release\EmailSenderClient.csprojResolveAssemblyReference.cache
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\EmailSender\EmailSenderClient\obj\Release\EmailSenderClient.exe
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\EmailSender\EmailSenderClient\obj\Release\EmailSenderClient.pdb

@@ -1,0 +1,5 @@
+c:\users\pareeka2\documents\visual studio 2015\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.csprojResolveAssemblyReference.cache
+c:\users\pareeka2\documents\visual studio 2015\Projects\EmailSender\EmailSender\bin\Debug\EmailSender.dll
+c:\users\pareeka2\documents\visual studio 2015\Projects\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+c:\users\pareeka2\documents\visual studio 2015\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.dll
+c:\users\pareeka2\documents\visual studio 2015\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.pdb

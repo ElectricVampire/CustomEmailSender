@@ -1,0 +1,4 @@
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\EmailSender\EmailSender\bin\Release\EmailSender.dll
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\EmailSender\EmailSender\bin\Release\EmailSender.pdb
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\EmailSender\EmailSender\obj\Release\EmailSender.dll
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\EmailSender\EmailSender\obj\Release\EmailSender.pdb

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="EmailConfig">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Smtp">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SmtpAddress" type="xs:string" />
+              <xs:element name="Port" type="xs:unsignedShort" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="User">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="From" type="xs:string" />
+              <xs:element name="Password" type="xs:string" />
+              <xs:element name="Bcc" type="xs:string" nillable ="true"/>
+              <xs:element name="Cc" type="xs:string" nillable ="true"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Misc">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TemplateConfigPath" type="xs:string" nillable ="true"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
